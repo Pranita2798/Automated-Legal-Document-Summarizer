@@ -250,13 +250,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Cloud deployment**: Docker containerization and cloud hosting
 - **Collaboration features**: Multi-user document sharing and annotation
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- **GitHub Issues**: Report bugs and request features
-- **Documentation**: Comprehensive guides and API reference
-- **Community**: Join our discussions and share feedback
 
 ## 🙏 Acknowledgments
 
@@ -264,6 +257,3 @@ For questions, issues, or contributions:
 - **Streamlit**: For the excellent web application framework
 - **Open Source Community**: For the many libraries that make this project possible
 
----
-
-**Built with ❤️ for the legal technology community**
